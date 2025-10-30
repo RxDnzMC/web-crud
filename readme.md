@@ -44,25 +44,25 @@ Langkah-langkah umum untuk menjalankan aplikasi:
 ---
 
 ## 📂 Struktur Folder
-Struktur umum direktori aplikasi kamu:
+Struktur umum direktori aplikasi:
 
 web-crud/
-├─ config/
+├─ 📁 config/
 │  └─ config.php
-├─ gambar/
+├─ 📁 gambar/
 │  ├─ gambar1.png
 │  ├─ gambar2.png
 │  └─ ...
-├─ includes/
+├─ 📁 includes/
 │  ├─ header.php
 │  ├─ footer.php
 │  └─ functions.php
-├─ create.php
-├─ read.php
-├─ update.php
-├─ delete.php
-├─ index.php
-└─ db_gamekonsol.sql
+├─ 📄 create.php
+├─ 📄 read.php
+├─ 📄 update.php
+├─ 📄 delete.php
+├─ 📄 index.php
+└─ 📄 db_gamekonsol.sql
 
 ---
 
@@ -108,6 +108,7 @@ try {
 
 ### Hapus Data
 ![Hapus Data](gambar/gambar5.png)
+
 
 
 
