@@ -1,9 +1,12 @@
 # 🧾 Judul Aplikasi
 Aplikasi Web CRUD Game Konsol adalah sistem sederhana berbasis web yang digunakan untuk mengelola data game konsol.
-Aplikasi ini memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data game dengan tampilan yang user-friendly.
-Tujuan utama dari aplikasi ini adalah membantu pengguna mengelola koleksi game konsol secara praktis dan efisien.
----
 
+Aplikasi ini memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data game dengan tampilan yang user-friendly.
+
+Tujuan utama dari aplikasi ini adalah membantu pengguna mengelola koleksi game konsol secara praktis dan efisien.
+
+---
+ 
 ## ✨ Fitur yang Tersedia
 - Tambah data game (Create)
 - Lihat daftar game (Read)
@@ -114,6 +117,7 @@ try {
 
 ### Tabel Data
 ![Tabel Data](gambar/gambar3.png)
+
 
 
 
