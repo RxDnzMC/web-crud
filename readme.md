@@ -1,23 +1,21 @@
 # 🧾 Judul Aplikasi
-Deskripsi singkat aplikasi kamu tulis di sini. Jelaskan tujuan utama aplikasi ini secara ringkas dan jelas.
-
+Aplikasi Web CRUD Game Konsol adalah sistem sederhana berbasis web yang digunakan untuk mengelola data game konsol.
+Aplikasi ini memungkinkan pengguna untuk menambah, melihat, mengubah, dan menghapus data game dengan tampilan yang user-friendly.
+Tujuan utama dari aplikasi ini adalah membantu pengguna mengelola koleksi game konsol secara praktis dan efisien.
 ---
 
 ## ✨ Fitur yang Tersedia
-Tuliskan daftar fitur yang tersedia di aplikasi kamu, misalnya:
-- Tambah data (Create)
-- Lihat data (Read)
-- Edit data (Update)
-- Hapus data (Delete)
-- Pencarian data
-- Pagination
-- Login & Logout
-- Validasi input
-
+- Tambah data game (Create)
+- Lihat daftar game (Read)
+- Edit atau ubah data game (Update)
+- Hapus data game (Delete)
+- Pencarian data game berdasarkan nama atau kategori
+- Validasi input sebelum disimpan ke database
+- Tampilan dinamis menggunakan template header & footer
+- Koneksi database dengan PDO (secure & fleksibel)
 ---
 
 ## ⚙️ Kebutuhan Sistem
-Tuliskan spesifikasi minimum yang dibutuhkan agar aplikasi bisa berjalan:
 - PHP versi 8.0 atau lebih baru
 - Database MySQL / MariaDB
 - Server lokal seperti XAMPP, Laragon, atau WAMP
@@ -116,6 +114,7 @@ try {
 
 ### Tabel Data
 ![Tabel Data](gambar/gambar3.png)
+
 
 
 
