@@ -85,7 +85,7 @@ Gunakan file .env atau file konfigurasi PHP sesuai kebutuhan kamu.
 
 
 Contoh .env:
-
+```
 DB_HOST=localhost
 
 DB_NAME=nama_database
@@ -121,7 +121,7 @@ try {
 }
 
 ?>
-
+```
 
 ---
 
@@ -132,6 +132,7 @@ try {
 
 ### Tabel Data
 ![Tabel Data](gambar/gambar3.png)
+
 
 
 
