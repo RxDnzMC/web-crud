@@ -92,20 +92,21 @@ try {
 
 ---
 
-## 🖼️ Screenshot Aplikasi
-Simpan semua screenshot di folder gambar/.
+## 📸 Screenshots
 
-Contoh tampilan aplikasi:
-
-Halaman Utama:
+### Halaman Utama
 ![Halaman Utama](gambar/gambar1.png)
 
-Form Tambah Data:
+### Form Tambah Data
 ![Form Tambah Data](gambar/gambar2.png)
 
-> Tambahkan screenshot lain di folder gambar/ dan ubah nama file sesuai kebutuhan.
+### Tabel Data
+![Tabel Data](gambar/gambar3.png)
 
----
+### Edit Data
+![Edit Data](gambar/gambar4.png)
 
-## 📄 Catatan
-Semua isi README ini masih berupa placeholder dan dapat kamu ubah sesuai kebutuhan proyek kamu.
+### Hapus Data
+![Hapus Data](gambar/gambar5.png)
+
+
