@@ -83,26 +83,45 @@ web-crud/
 ## 🔧 Contoh Environment Config
 Gunakan file .env atau file konfigurasi PHP sesuai kebutuhan kamu.
 
+
 Contoh .env:
+
 DB_HOST=localhost
+
 DB_NAME=nama_database
+
 DB_USER=root
+
 DB_PASS=
 
+
 Contoh config.php:
+
 <?php
+
 $host = 'localhost';
+
 $dbname = 'nama_database';
+
 $username = 'root';
+
 $password = '';
 
+
 try {
+
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
+    
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    
 } catch (PDOException $e) {
+
     die("Koneksi gagal: " . $e->getMessage());
+    
 }
+
 ?>
+
 
 ---
 
@@ -113,6 +132,7 @@ try {
 
 ### Tabel Data
 ![Tabel Data](gambar/gambar3.png)
+
 
 
 
