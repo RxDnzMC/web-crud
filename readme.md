@@ -54,11 +54,9 @@ web-crud/
 
 ├─ 📁 gambar/
 
-│  ├─ gambar1.png
-
 │  ├─ gambar2.png
 
-│  └─ ...
+│  ├─ gambar3.png
 
 ├─ 📁 includes/
 
@@ -110,21 +108,11 @@ try {
 
 ## 📸 Screenshots
 
-### Halaman Utama
-![Halaman Utama](gambar/gambar1.png)
-
 ### Form Tambah Data
 ![Form Tambah Data](gambar/gambar2.png)
 
 ### Tabel Data
 ![Tabel Data](gambar/gambar3.png)
-
-### Edit Data
-![Edit Data](gambar/gambar4.png)
-
-### Hapus Data
-![Hapus Data](gambar/gambar5.png)
-
 
 
 
